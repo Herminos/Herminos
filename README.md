@@ -1,6 +1,6 @@
 # Welcome~
 ---
-![snake]("https://cdn.jsdelivr.net/gh/Herminos/Herminos/profile-snake-contrib/github-contribution-grid-snake-dark.svg")
+
 
 ## Welcome to Herminos's GitHub~
 
