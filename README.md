@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=CMake&logoColor=red)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=lightblue)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=00599C)
+![Java](https://img.shields.io/badge/-OpenJDK-05122A?style=flat&logo=openjdk&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=purple)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&logoColor=yellow)
 ![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt&logoColor=lightgreen)
