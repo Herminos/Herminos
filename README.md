@@ -1,6 +1,5 @@
 # Welcome~
 ---
-#![snake](https://raw.githubusercontent.com/Herminos/Herminos/main/assets/github-contribution-grid-snake.svg)
 
 ## Welcome to Herminos's GitHub~
 
