@@ -36,9 +36,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)
 
 ---
-| ![Herminos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herminos&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herminos&layout=compact) |
-| ---- | ---- |
----
+
 # Happy Valentine's Day! 💘
 ## (i dont have a lover, why i'm going to celebrate it...
+
+
+---
+| ![Herminos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herminos&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herminos&layout=compact) |
+| ---- | ---- |
 ---
