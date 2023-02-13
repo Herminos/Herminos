@@ -1,3 +1,6 @@
+# Happy Valentine's Day! 💘
+## (i dont have a lover, why i'm going to celebrate it...
+---
 # Welcome~
 ---
 
@@ -27,7 +30,7 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=purple)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&logoColor=yellow)
 ![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt&logoColor=lightgreen)
-![Linux](https://img.shields.io/badge/-AsahiLinux-05122A?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-ArchLinux-05122A?style=flat&logo=archlinux&logoColor=lightblue)
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=00599C)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=00599C)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio&logoColor=purple)
