@@ -37,12 +37,6 @@
 
 ---
 
-# Happy Valentine's Day! 💘
-## (i dont have a lover, why i'm going to celebrate it...
-### Not happy at all...
-
-
----
 | ![Herminos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herminos&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herminos&layout=compact) |
 | ---- | ---- |
 ---
