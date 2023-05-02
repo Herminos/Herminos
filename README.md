@@ -31,6 +31,7 @@
 ![RPI](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberrypi&logoColor=A22846)
 ![Linux](https://img.shields.io/badge/-Kubuntu-05122A?style=flat&logo=kubuntu&logoColor=0079C1)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=00599C)
+![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=#57A143)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio&logoColor=purple)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)
