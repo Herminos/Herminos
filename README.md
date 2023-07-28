@@ -22,17 +22,15 @@
 
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=CMake&logoColor=064F8C)
+![JS](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=#F7DF1E)
+![TS](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=#3178C6)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=3376AB)
 ![Java](https://img.shields.io/badge/-OpenJDK-05122A?style=flat&logo=openjdk&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV&logoColor=5C3EE8)
-![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt&logoColor=lightgreen)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=#61DAFB)
 ![RPI](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberrypi&logoColor=A22846)
 ![Linux](https://img.shields.io/badge/-Kubuntu-05122A?style=flat&logo=kubuntu&logoColor=0079C1)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=00599C)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=#57A143)
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visualstudio&logoColor=purple)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)
 
