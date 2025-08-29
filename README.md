@@ -8,7 +8,7 @@
 
 - 🗺️ From Harbin Heilongjiang China.
 
-- 🏫 A student from Harbin No.3 High School.
+- 🏫 A student from Harbin Institute of Technology.
 
 - 📘 Computer Science, Biology, Chemistry lover.
 
