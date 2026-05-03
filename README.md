@@ -14,7 +14,7 @@
 
 - ✨ All Programs are 100% Open Source! 
 
-- 🎈 More info about me on [My Page](https://www.herminos.site)
+- 🎈 More info about me on [My Page](https://blog-herminos.vercel.app/)
 
 ---
 
