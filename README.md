@@ -6,11 +6,11 @@
 
 - 😎 My name is Herminos.
 
-- 🗺️ From Harbin Heilongjiang China.
+- ❄️ From Harbin Heilongjiang China.
 
 - 🏫 A student from Harbin Institute of Technology.
 
-- 📘 Computer Science, Biology, Chemistry lover.
+- 📘 Computer Science lover. Physics, Mathematics learner.
 
 - ✨ All Programs are 100% Open Source! 
 
@@ -36,6 +36,3 @@
 
 ---
 
-| ![Herminos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herminos&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herminos&layout=compact) |
-| ---- | ---- |
----
