@@ -28,7 +28,7 @@
 ![Java](https://img.shields.io/badge/-OpenJDK-05122A?style=flat&logo=openjdk&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=#61DAFB)
 ![RPI](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberrypi&logoColor=A22846)
-![Linux](https://img.shields.io/badge/-Kubuntu-05122A?style=flat&logo=kubuntu&logoColor=0079C1)
+![Linux](https://img.shields.io/badge/-ArchLinux-05122A?style=flat&logo=arch&logoColor=0079C1)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode&logoColor=00599C)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=#57A143)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)
